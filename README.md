@@ -13,7 +13,7 @@ Estou  trabalhando em projetos para meu portifólio 🛠️, como DownPlay e Mov
 </div> 
 
 
-## Contatos
+## Contato
 
 <div>
     <a href="mailto:nmarques0897@gmail.com">
