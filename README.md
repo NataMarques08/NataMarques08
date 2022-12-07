@@ -19,7 +19,7 @@ Estou  trabalhando em projetos para meu portifólio 🛠️, como DownPlay e Mov
     <a href="mailto:nmarques0897@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-     <a href="mailto:nmarques0897@gmail.com">
+     <a href="mailto:natamarques1997@outlook.com">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/nat%C3%A3-molina-marques-b293b41ba/">
