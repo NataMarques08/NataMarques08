@@ -1,8 +1,8 @@
 ### Olá 🤙
-Eu sou Natã Marques, sou desenvolvedor Android Nativo com Java e Kotlin.
+Eu sou Natã Marques, sou desenvolvedor Mobile, trabalho com Java, Kotlin, Dart e Flutter.
 
 ### Vamos falar sobre meus projetos?
-Estou  trabalhando em projetos para meu portifólio 🛠️, como DownPlay e MoviesCatalog[ <a href="https://github.com/NataMarques08?tab=repositories">veja meus repositories</a>]  😀
+Estou  trabalhando em projetos para meu portifólio 🛠️, você pode acompanhar tudo nos meus repositories.[ <a href="https://github.com/NataMarques08?tab=repositories">veja meus repositories</a>]  😀
 
 ## Tecnologias que uso no meu dia
 
